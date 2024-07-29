@@ -21,7 +21,7 @@ class Size(Enum):
     BIG = "210px"
 
 BASE_STYLE={
-    "background":"linear-gradient(cyan, blue)",
+    "background": "linear-gradient(cyan, blue)",
     "background_size": "100%",
     "background_attachment": "fixed",
     "background_repeat": "no-repeat",

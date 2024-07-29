@@ -4,7 +4,7 @@ def lang() -> rx.Component:
     return rx.script("document.documentElement.lang='es'")
 
 
-preview = "Actividades_fondo.jpg"
+preview = "Visita\assets\Actividades_fondo.jpg"
 
 #Común
 _meta=[

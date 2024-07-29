@@ -5,7 +5,7 @@ from Visita.Style.style import Size as Size
 
 def footer() -> rx.Component:
     return rx.hstack(
-        rx.image(src="Amor_data_science_App.jpg", width="250px", height="auto", alt="Logo del Desarrollador, Un corazón formado con relaciones de datos (grafos)"),
+        rx.image(src="/Amor_data_science_App.jpg", width="250px", height="auto", alt="Logo del Desarrollador, Un corazón formado con grafos (relaciones de datos)"),
         #rx.icon('heart-handshake', width="3em", size=50, position= 'fixed', padding_top='1px', padding_right='1px', padding_left='5px', padding_bottom='5px', margin_left='260px', 
         #        color_scheme="gold"),
         rx.text('Data Science Hospital Padre Alberto Hurtado',

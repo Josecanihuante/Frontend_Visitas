@@ -10,7 +10,6 @@ from Visita.Style import style
 @rx.page(route= Route.INDEX.value,
     title= utils.title_index,
     description= utils.description_index,
-    #preview= utils.preview,
     meta=utils.meta_index
 )
 
